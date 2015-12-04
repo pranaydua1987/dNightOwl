@@ -1,0 +1,3390 @@
+{
+  "filter": {
+    "context": null,
+    "query": null,
+    "sizes": [
+      "M"
+    ],
+    "price_ranges": [],
+    "colors": [
+      "Black"
+    ],
+    "brands": [],
+    "sort": "featured",
+    "division": "Men",
+    "department": "Clothing",
+    "class": "Shirts",
+    "subclass": "Casual",
+    "include_persistent": true,
+    "include_flash": false,
+    "page": 1,
+    "limit": 30
+  },
+  "page": 1,
+  "limit": 30,
+  "pages": 3,
+  "total": 64,
+  "corrected_query": null,
+  "_links": {
+    "self": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual&colors%5B0%5D=Black&sizes%5B0%5D=M&page=1&limit=30"
+    },
+    "first": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual&colors%5B0%5D=Black&sizes%5B0%5D=M&page=1&limit=30"
+    },
+    "last": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual&colors%5B0%5D=Black&sizes%5B0%5D=M&page=3&limit=30"
+    },
+    "next": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual&colors%5B0%5D=Black&sizes%5B0%5D=M&page=2&limit=30"
+    },
+    "http://hautelook.com/rels/search": {
+      "href": "/api/search2/catalog/search{?query,context,division,department,class,subclass,page,includePersistent,includeFlash,limit,sort,sizes%5B%5D*,colors%5B%5D*,priceRanges%5B%5D*,brands%5B%5D*}",
+      "templated": true
+    },
+    "http://hautelook.com/rels/price-ranges": {
+      "href": "/api/search2/catalog/search/price-ranges-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+    },
+    "http://hautelook.com/rels/colors": {
+      "href": "/api/search2/catalog/search/colors-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+    },
+    "http://hautelook.com/rels/sizes": {
+      "href": "/api/search2/catalog/search/sizes-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+    },
+    "http://hautelook.com/rels/brands": {
+      "href": "/api/search2/catalog/search/brands-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+    },
+    "http://hautelook.com/rels/sorts": {
+      "href": "/api/search2/catalog/search/sort-data"
+    },
+    "http://hautelook.com/rels/classification": {
+      "href": "/api/search2/catalog/classification?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+    }
+  },
+  "_embedded": {
+    "http://hautelook.com/rels/products": [
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Tommy Bahama",
+        "name": "'Piazza Paradise' Island Modern Fit Print Silk Shirt",
+        "style_num": "T310482",
+        "style_id": 1465516,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "True to size.Tommy Bahama's Island Modern fit is considered a Regular fit; cut with some room through the chest and body.",
+        "description": "A cool floral print peppers a short-sleeve button-front shirt woven from soft silk.\n- 29\" length; 44\" chest (size Medium)\n- Front button closure\n- 100% silk\n- Dry clean",
+        "care": "",
+        "return": "returnable",
+        "clearance": true,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1465516?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1465516{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1465516/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8852396,
+              "price_retail": 128,
+              "price_sale": 49.97,
+              "price_discount": 0.61,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 5,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": true,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8852396"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1465516"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/T310482/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T310482/{size}/4499436.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T310482/{size}/4499441.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T310482/{size}/4499448.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/T310482/{size}/4499436.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/T310482/{size}/4499441.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/T310482/{size}/4499448.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Tommy Bahama",
+        "name": "'Dobby' Original Fit Silk Camp Shirt",
+        "style_num": "T35387",
+        "style_id": 1465505,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "True to size.Tommy Bahama's Original Fit is considered a Classic fit; cut generously with extra room through the chest, armholes and sides.",
+        "description": "Light-as-air silk perfects the laid-back look of a dobby weave shirt.\n- 30\" length; 46\" chest (size Medium)\n- 100% silk\n- Dry clean or machine wash cold, tumble dry low",
+        "care": "",
+        "return": "returnable",
+        "clearance": true,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1465505?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1465505{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1465505/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8852293,
+              "price_retail": 98,
+              "price_sale": 39.97,
+              "price_discount": 0.59,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": true,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8852293"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1465505"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/T35387/black.jpg"
+                },
+                "http://hautelook.com/rels/images": {
+                  "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T35387/{size}/4499430.jpg",
+                  "templated": true
+                },
+                "http://hautelook.com/rels/original-images": {
+                  "href": "https://www.hautelookcdn.com/products/T35387/{size}/4499430.jpg",
+                  "templated": true
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Tommy Bahama",
+        "name": "'Pixel in Paradise' Island Modern Fit Short Sleeve Sport Shirt",
+        "style_num": "T311456",
+        "style_id": 1460912,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "True to size.Tommy Bahama's Island Modern fit is considered a Regular fit; cut with some room through the chest and body.",
+        "description": "An optical plaid styles a casually handsome sport shirt crafted from an airy silk-cotton blend and fronted by a single chest pocket.\n- 29\" length (size Medium)\n- 55% silk, 45% cotton\n- Dry clean or machine wash cold, tumble dry low",
+        "care": "",
+        "return": "returnable",
+        "clearance": true,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1460912?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1460912{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1460912/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8823876,
+              "price_retail": 118,
+              "price_sale": 44.97,
+              "price_discount": 0.62,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 5,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": true,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8823876"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1460912"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/T311456/black.jpg"
+                },
+                "http://hautelook.com/rels/images": {
+                  "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T311456/{size}/4484399.jpg",
+                  "templated": true
+                },
+                "http://hautelook.com/rels/original-images": {
+                  "href": "https://www.hautelookcdn.com/products/T311456/{size}/4484399.jpg",
+                  "templated": true
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "7 Diamonds",
+        "name": "'Rising Tide' Trim Fit Short Sleeve Print Shirt",
+        "style_num": "SMK-4991",
+        "style_id": 1460606,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "If ordering for the first time, order one size up. Considered a Trim fit; fitted through the chest, armholes and sides.",
+        "description": "A crisp cotton-woven shirt in a seed-like print is tailored with a comfortable trim fit and fixed short-sleeve cuffs.\n- 29 1/4\" length; 43\" chest (size Medium)\n- Curved hem\n- 100% cotton\n- Dry clean or machine wash cold, tumble dry low",
+        "care": "",
+        "return": "returnable",
+        "clearance": true,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1460606?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1460606{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1460606/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8822361,
+              "price_retail": 89,
+              "price_sale": 34.97,
+              "price_discount": 0.61,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 5,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": true,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8822361"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1460606"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/SMK-4991/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/SMK-4991/{size}/4482818.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/SMK-4991/{size}/4482825.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/SMK-4991/{size}/4482818.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/SMK-4991/{size}/4482825.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "HUGO BOSS",
+        "name": "'Robbie 1' Trim Fit Melange Plaid Sport Shirt",
+        "style_num": "5029046400100",
+        "style_id": 1462449,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "True to size.Considered a Trim fit; slightly fitted allover.",
+        "description": "A melange-woven plaid sport shirt cast in crisp cotton twill is tailored for a slim fit with a classic point collar and single-button cuffs.\n- 30 1/2\" length; 42\" chest (size Medium)\n- Single-button cuffs\n- Back yoke\n- Curved hem\n- 100% cotton\n- Dry clean or machine wash cold",
+        "care": "",
+        "return": "returnable",
+        "clearance": true,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1462449?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1462449{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1462449/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8834832,
+              "price_retail": 155,
+              "price_sale": 59.97,
+              "price_discount": 0.61,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 1,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": true,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8834832"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1462449"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/5029046400100/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/5029046400100/{size}/4488819.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/5029046400100/{size}/4488835.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/5029046400100/{size}/4488854.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/5029046400100/{size}/4488819.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/5029046400100/{size}/4488835.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/5029046400100/{size}/4488854.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Oakley",
+        "name": "Demand Woven Long Sleeve Regular Fit Shirt",
+        "style_num": "401590SLFR-01K",
+        "style_id": 1183290,
+        "fiber_content": "73% cotton, 25% polyester, 2% spandex",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 5'11.5''\n- Waist: 31''\n- Suit: 40''\n- Inseam: 32''\nModel is wearing size M.",
+        "description": "- Button-down collar\n- Long sleeves with barrel cuffs\n- Front button closure\n- Chest patch pocket with button closure\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1183290?color=Jet+Black"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1183290{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1183290/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7122948,
+              "price_retail": 90,
+              "price_sale": 49.97,
+              "price_discount": 0.44,
+              "size": "M",
+              "standard_size": "M",
+              "color": "Jet Black",
+              "inventory_level": "low",
+              "low_quantity": 5,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7122948"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1183290"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/401590SLFR-01K/jet_black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401590SLFR-01K/{size}/4480748.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401590SLFR-01K/{size}/4480749.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401590SLFR-01K/{size}/4480748.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401590SLFR-01K/{size}/4480749.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Oakley",
+        "name": "Pocket Stripe Woven Long Sleeve Regular Fit Shirt",
+        "style_num": "401593-01K",
+        "style_id": 1183281,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 5'11.5''\n- Waist: 31''\n- Suit: 40''\n- Inseam: 32''\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with barrel cuffs\n- Front button closure\n- Printed chest patch pocket\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1183281?color=Jet+Black"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1183281{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1183281/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7122903,
+              "price_retail": 65,
+              "price_sale": 34.97,
+              "price_discount": 0.46,
+              "size": "M",
+              "standard_size": "M",
+              "color": "Jet Black",
+              "inventory_level": "high",
+              "low_quantity": 7,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7122903"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1183281"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/401593-01K/jet_black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401593-01K/{size}/4480689.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401593-01K/{size}/4480688.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401593-01K/{size}/4480689.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401593-01K/{size}/4480688.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Oakley",
+        "name": "Progression Thermogauge Long Sleeve Regular Fit Shirt",
+        "style_num": "401560-01K",
+        "style_id": 1053121,
+        "fiber_content": "58% cotton, 42% polyester",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Suit: 38L\n- Waist: 30\" \n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves\n- Front button closure\n- Solid construction\n- Front zip pocket\n- Regular fit\n- Approx. 30\" length\n- Imported",
+        "care": "Machine wash",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1053121?color=Jet+Black"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1053121{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1053121/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 6286625,
+              "price_retail": 80,
+              "price_sale": 39.97,
+              "price_discount": 0.5,
+              "size": "M",
+              "standard_size": "M",
+              "color": "Jet Black",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/6286625"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1053121"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/401560-01K/jet_black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401560-01K/{size}/3525232.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/401560-01K/{size}/3525231.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401560-01K/{size}/3525232.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/401560-01K/{size}/3525231.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Robert Graham",
+        "name": "Pyramid Classic Fit Shirt",
+        "style_num": "RF141030TF",
+        "style_id": 1402162,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40L\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeve with single barrel cuff\n- Front button closure\n- Embossed paisley design\n- Classic fit\n- Approx. 32\" length\n- Imported ",
+        "care": "Machine wash",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1402162?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1402162{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1402162/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-robertgraham_2.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-robertgraham_2.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8490600,
+              "price_retail": 198,
+              "price_sale": 89.97,
+              "price_discount": 0.55,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 1,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8490600"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1402162"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RF141030TF/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RF141030TF/{size}/4447718.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RF141030TF/{size}/4447717.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RF141030TF/{size}/4447718.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RF141030TF/{size}/4447717.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Robert Graham",
+        "name": "Los Cabos Tailored Fit Shirt",
+        "style_num": "RS151205TF",
+        "style_id": 1338262,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40L\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeve with double barrel cuff\n- Front button closure\n- Printed design\n- Tailored fit\n- Approx. 32\" length\n- Imported",
+        "care": "Machine wash",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1338262?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1338262{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1338262/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-robertgraham_2.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-robertgraham_2.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8120192,
+              "price_retail": 198,
+              "price_sale": 89.97,
+              "price_discount": 0.55,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8120192"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1338262"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RS151205TF/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RS151205TF/{size}/4447698.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RS151205TF/{size}/4447697.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RS151205TF/{size}/4447698.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RS151205TF/{size}/4447697.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Robert Graham",
+        "name": "Houseboat Tailored Fit Shirt",
+        "style_num": "XC001000TF",
+        "style_id": 1338258,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40L\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeve with double barrel cuff\n- Front button closure\n- Tailored fit\n- Approx. 32\" length\n- Imported ",
+        "care": "Machine wash",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1338258?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1338258{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1338258/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-robertgraham_2.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-robertgraham_2.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8490480,
+              "price_retail": 188,
+              "price_sale": 89.97,
+              "price_discount": 0.52,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8490480"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1338258"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/XC001000TF/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/XC001000TF/{size}/4447777.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/XC001000TF/{size}/4447778.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/XC001000TF/{size}/4447777.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/XC001000TF/{size}/4447778.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Ezekiel",
+        "name": "Warrior Long Sleeve Woven Shirt",
+        "style_num": "EL144126N",
+        "style_id": 1444088,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Bust: 38\"\n- Waist: 32\"\n- Suit: 40\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- Chest flap pocket with button closure\n- Topstitch detail\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1444088?color=BLK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1444088{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1444088/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8721934,
+              "price_retail": 56,
+              "price_sale": 32.97,
+              "price_discount": 0.41,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8721934"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1444088"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/EL144126N/blk.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144126N/{size}/4506185.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144126N/{size}/4506186.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144126N/{size}/4506185.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144126N/{size}/4506186.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Ezekiel",
+        "name": "Agenda Long Sleeve Woven Shirt",
+        "style_num": "EL144125N",
+        "style_id": 1444082,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Bust: 38\"\n- Waist: 32\"\n- Suit: 40\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- Chest patch pocket with button closure\n- Topstitch detail\n- Approx. 28.5\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1444082?color=BLK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1444082{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1444082/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8721906,
+              "price_retail": 56,
+              "price_sale": 32.97,
+              "price_discount": 0.41,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8721906"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1444082"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/EL144125N/blk.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144125N/{size}/4506191.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144125N/{size}/4506192.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144125N/{size}/4506191.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144125N/{size}/4506192.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Ezekiel",
+        "name": "Pikes Peak Hooded Flannel Shirt",
+        "style_num": "EL144119N",
+        "style_id": 1410017,
+        "fiber_content": "60% cotton, 40% polyester",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Bust: 38\"\n- Waist: 32\"\n- Suit: 40\"\nModel is wearing size M.",
+        "description": "- Attached hoodie\n- Long sleeves with double barrel cuffs\n- Front button closure\n- 2 chest flap pockets with button closure\n- Allover print\n- Approx. 27\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1410017?color=BLK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1410017{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1410017/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8721902,
+              "price_retail": 64,
+              "price_sale": 34.97,
+              "price_discount": 0.45,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8721902"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1410017"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/EL144119N/blk.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144119N/{size}/4506177.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/EL144119N/{size}/4506178.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144119N/{size}/4506177.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/EL144119N/{size}/4506178.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "WeSC",
+        "name": "Long Sleeve Regular Fit Shirt ",
+        "style_num": "F408869-999",
+        "style_id": 1358702,
+        "fiber_content": "100% cotton\n",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size. \n\nModel's stats for sizing: \n- Height: 6'1.5\" \n- Suit: 38 \n- Waist: 32\" \n- Inseam: 32\" \nModel is wearing size M.",
+        "description": "- Button-down collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- 2 front chest flap pockets with button closure\n- Approx. 30\" length\n- Imported ",
+        "care": "Machine wash warm",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1358702?color=black"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1358702{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1358702/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8244589,
+              "price_retail": 78,
+              "price_sale": 49.97,
+              "price_discount": 0.36,
+              "size": "M",
+              "standard_size": "M",
+              "color": "black",
+              "inventory_level": "high",
+              "low_quantity": 6,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8244589"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1358702"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/F408869-999/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/F408869-999/{size}/4455633.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/F408869-999/{size}/4455632.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/F408869-999/{size}/4455633.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/F408869-999/{size}/4455632.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Toscano",
+        "name": "Tiny Leaf Print Short Sleeve Silk Blend Shirt",
+        "style_num": "RKOBETR",
+        "style_id": 1281929,
+        "fiber_content": "55% silk, 45% rayon",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Short sleeves\n- Front button closure\n- Chest pocket\n- Allover print\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Hand wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1281929?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1281929{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1281929/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7895868,
+              "price_retail": 85,
+              "price_sale": 35.97,
+              "price_discount": 0.58,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 5,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7895868"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1281929"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RKOBETR/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKOBETR/{size}/4112154.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKOBETR/{size}/4112153.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKOBETR/{size}/4112154.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKOBETR/{size}/4112153.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "James Campbell",
+        "name": "JC Soder Woven Shirt",
+        "style_num": "7J34145",
+        "style_id": 1407462,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'0.5\"\n- Suit: 39R\"\n- Waist: 31\"\n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- 2 chest flap pockets with button closure\n- Topstitch detail\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1407462?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1407462{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1407462/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8520846,
+              "price_retail": 89.5,
+              "price_sale": 39.97,
+              "price_discount": 0.55,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8520846"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1407462"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7J34145/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J34145/{size}/4395853.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J34145/{size}/4395854.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J34145/{size}/4395853.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J34145/{size}/4395854.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Toscano",
+        "name": "Short Sleeve Silk Blend Tiny Boxes Shirt",
+        "style_num": "RKORNTR",
+        "style_id": 1300966,
+        "fiber_content": "55% silk, 45% rayon",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Short sleeves\n- Front button closure\n- Chest pocket\n- Allover print\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Hand wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1300966?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1300966{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1300966/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7895903,
+              "price_retail": 85,
+              "price_sale": 35.97,
+              "price_discount": 0.58,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7895903"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1300966"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RKORNTR/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKORNTR/{size}/4112162.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKORNTR/{size}/4112161.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKORNTR/{size}/4112162.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKORNTR/{size}/4112161.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Toscano",
+        "name": "Panel Silk Blend Short Sleeve Regular Fit Shirt",
+        "style_num": "RILEYTR",
+        "style_id": 1281932,
+        "fiber_content": "55% silk, 45% rayon",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Short sleeves\n- Front button closure\n- Chest patch pocket\n- Contrast color panel detail\n- Regular fit\n- Approx. 28\" length\n- Imported",
+        "care": "Dry clean",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1281932?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1281932{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1281932/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7772083,
+              "price_retail": 85,
+              "price_sale": 35.97,
+              "price_discount": 0.58,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7772083"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1281932"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RILEYTR/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RILEYTR/{size}/4411726.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RILEYTR/{size}/4411727.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RILEYTR/{size}/4411726.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RILEYTR/{size}/4411727.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Toscano",
+        "name": "Short Sleeve Silk Blend Paisley Regular Fit Shirt",
+        "style_num": "RKINDLETR",
+        "style_id": 1281926,
+        "fiber_content": "55% silk, 45% rayon",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1\"\n- Suit: 40\n- Waist: 33\"\n- Inseam: 33\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Short sleeves\n- Front button closure\n- Chest pocket\n- Allover print\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Hand wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1281926?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1281926{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1281926/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7772053,
+              "price_retail": 85,
+              "price_sale": 35.97,
+              "price_discount": 0.58,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7772053"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1281926"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/RKINDLETR/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKINDLETR/{size}/4356058.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/RKINDLETR/{size}/4356059.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKINDLETR/{size}/4356058.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/RKINDLETR/{size}/4356059.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Victorinox Swiss Army",
+        "name": "Villamont Long Sleeve Black Tailored Fit Shirt",
+        "style_num": "M50066001",
+        "style_id": 1201536,
+        "fiber_content": "97% cotton, 3% spandex",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 5'11''\n- Suit: 37L\n- Shirt: 32''\n- Waist: 30''\n- Inseam: 32''\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- Allover print\n- Tailored fit\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1201536?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1201536{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1201536/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-victorinox.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-victorinox.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 7239599,
+              "price_retail": 135,
+              "price_sale": 49.97,
+              "price_discount": 0.63,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/7239599"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1201536"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/M50066001/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/M50066001/{size}/4383215.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/M50066001/{size}/4383214.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/M50066001/{size}/4383215.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/M50066001/{size}/4383214.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "James Campbell",
+        "name": "Davenport Regular Fit Shirt",
+        "style_num": "7I36925",
+        "style_id": 1398553,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'0.5\"\n- Suit: 39R\"\n- Waist: 31\"\n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front snap button closure\n- 2 chest flap pockets with snap button closure\n- Allover print\n- Topstitch detail\n- Regular fit\n- Approx. 24.5\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1398553?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1398553{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1398553/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8469180,
+              "price_retail": 125,
+              "price_sale": 39.97,
+              "price_discount": 0.68,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 3,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8469180"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1398553"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7I36925/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7I36925/{size}/4398677.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7I36925/{size}/4398676.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7I36925/{size}/4398677.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7I36925/{size}/4398676.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "James Campbell",
+        "name": "Nebraska Regular Fit Shirt",
+        "style_num": "7S36915",
+        "style_id": 1398551,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'0.5\"\n- Suit: 39R\"\n- Waist: 31\"\n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with snap button closure\n- Front snap button closure\n- 2 chest flap pockets with snap button closure\n- Allover print\n- Topstitch detail\n- Regular fit\n- Approx. 30\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1398551?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1398551{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1398551/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8469170,
+              "price_retail": 125,
+              "price_sale": 39.97,
+              "price_discount": 0.68,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8469170"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1398551"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7S36915/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7S36915/{size}/4398666.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7S36915/{size}/4398667.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7S36915/{size}/4398666.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7S36915/{size}/4398667.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "James Campbell",
+        "name": "Vicksburg Regular Fit Shirt",
+        "style_num": "7J38025",
+        "style_id": 1398540,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'0.5\"\n- Suit: 39R\"\n- Waist: 31\"\n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- Chest welt pocket with button closure\n- Topstitch detail\n- Regular fit\n- Approx. 30\" length\n- Imported",
+        "care": "Machine wash",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1398540?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1398540{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1398540/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8469115,
+              "price_retail": 125,
+              "price_sale": 39.97,
+              "price_discount": 0.68,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8469115"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1398540"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7J38025/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J38025/{size}/4398690.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J38025/{size}/4398691.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J38025/{size}/4398690.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J38025/{size}/4398691.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "James Campbell",
+        "name": "Hearne Regular Fit Shirt",
+        "style_num": "7J37975",
+        "style_id": 1398539,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'0.5\"\n- Suit: 39R\"\n- Waist: 31\"\n- Inseam: 32\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with double barrel cuffs\n- Front button closure\n- Allover print\n- Regular fit\n- Approx. 28\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1398539?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1398539{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1398539/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8469110,
+              "price_retail": 125,
+              "price_sale": 39.97,
+              "price_discount": 0.68,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8469110"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1398539"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7J37975/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J37975/{size}/4398682.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7J37975/{size}/4398683.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J37975/{size}/4398682.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7J37975/{size}/4398683.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Lucky Brand",
+        "name": "Regular Fit Western Shirt",
+        "style_num": "7MD4698",
+        "style_id": 1382599,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'1.5\" \n- Waist: 32\" \n- Inseam 32\" \n- Suit: 40R \nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with double barrel cuffs\n- Front button closure\n- 2 front snap closure front pockets\n- Regular Fit\n- Approx. 27\" length \n- Imported ",
+        "care": "Machine wash warm ",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1382599?color=BLACK+MULT"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1382599{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1382599/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8380490,
+              "price_retail": 79.5,
+              "price_sale": 49.97,
+              "price_discount": 0.37,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK MULT",
+              "inventory_level": "high",
+              "low_quantity": 8,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8380490"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1382599"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/7MD4698/black_mult.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7MD4698/{size}/4410660.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/7MD4698/{size}/4410661.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7MD4698/{size}/4410660.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/7MD4698/{size}/4410661.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Calvin Klein",
+        "name": "Dobby Stripe Long Sleeve Regular Fit Shirt",
+        "style_num": "40QW192",
+        "style_id": 1407458,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Waist: 32\"\n- Suit: 40\"\nModel is wearing size M.",
+        "description": "- Button-down collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- Allover stripes\n- Regular fit\n- Approx. 31\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1407458?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1407458{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1407458/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8520809,
+              "price_retail": 79.5,
+              "price_sale": 39.97,
+              "price_discount": 0.5,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 2,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8520809"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1407458"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/40QW192/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/40QW192/{size}/4384248.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/40QW192/{size}/4384247.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/40QW192/{size}/4384248.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/40QW192/{size}/4384247.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Calvin Klein",
+        "name": "Solid Double Pocket Long Regular Fit Sleeve Shirt",
+        "style_num": "40D9311",
+        "style_id": 1407451,
+        "fiber_content": "100% cotton",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "Fit: this style fits true to size.\n\nModel's stats for sizing:\n- Height: 6'2\"\n- Waist: 32\"\n- Suit: 40\"\nModel is wearing size M.",
+        "description": "- Spread collar\n- Long sleeves with single barrel cuffs\n- Front button closure\n- 2 chest pockets\n- Regular fit\n- Approx. 30\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1407451?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1407451{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1407451/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8520769,
+              "price_retail": 79.5,
+              "price_sale": 39.97,
+              "price_discount": 0.5,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "low",
+              "low_quantity": 2,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8520769"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1407451"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/40D9311/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/40D9311/{size}/4384260.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/40D9311/{size}/4384259.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/40D9311/{size}/4384260.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/40D9311/{size}/4384259.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Tommy Bahama",
+        "name": "Catalina Twill Long Sleeve Silk Regular Fit Shirt @",
+        "style_num": "T34569",
+        "style_id": 1400711,
+        "fiber_content": "100% silk",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "..M.",
+        "description": "- Spread collar\n- Long sleeves with double barrel cuffs\n- Front button closure\n- Topstitch detail\n- Chest patch pocket\n- Regular fit\n- Approx. 29\" length\n- Imported",
+        "care": "Machine wash cold",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1400711?color=BLACK"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1400711{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1400711/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-tommybahama_2.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-tommybahama_2.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8507995,
+              "price_retail": 110,
+              "price_sale": 59.97,
+              "price_discount": 0.45,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK",
+              "inventory_level": "high",
+              "low_quantity": 7,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8507995"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1400711"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/T34569/black.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T34569/{size}/4386040.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/T34569/{size}/4386039.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/T34569/{size}/4386040.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/T34569/{size}/4386039.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "division": "Men",
+        "department": "Clothing",
+        "class": "Shirts",
+        "sub_class": "Casual",
+        "brand_name": "Duke Hendricks",
+        "name": "'Saxon' Baseball Jersey",
+        "style_num": "SAX002",
+        "style_id": 1419399,
+        "fiber_content": "",
+        "material": "",
+        "max_items_per_person": 0,
+        "weight": 1,
+        "additional_details": "",
+        "additional_information": "True to size.Considered a Trim fit; fitted through the chest, armholes and sides.",
+        "description": "Step up to the plate in a throwback-inspired, button-front baseball jersey cut for a slim fit. Contrast-striped trim, a logo applique at the chest and a printed number add classic appeal.\n- 28 1/2\" length (size Medium)\n- Front button closure\n- Locker loop\n- Curved hem\n- 100% cotton\n- Machine wash cold, line dry",
+        "care": "",
+        "return": "returnable",
+        "clearance": false,
+        "choke_hazard": false,
+        "qualifies_free_shipping": true,
+        "ship_code": "owned_inventory",
+        "ship_time": "Ships in 1 - 2 days.",
+        "ship_description": "This item is ready to ship.",
+        "shipping_exclusions": [],
+        "_links": {
+          "self": {
+            "href": "/api/search2/products/1419399?color=BLACK-WHITE"
+          },
+          "alternate": {
+            "href": "//www.nordstromrack.com/shop/product/1419399{?color,size}",
+            "templated": true
+          },
+          "http://hautelook.com/rels/skus": {
+            "href": "/api/search2/products/1419399/skus"
+          },
+          "http://hautelook.com/rels/size-chart": {
+            "href": "https://www.hautelookcdn.com/assets/sizechart/sizechart-men.png"
+          },
+          "http://hautelook.com/rels/measurement-guide": {
+            "href": "https://www.hautelookcdn.com/measuring_guides/sizechart-men.png"
+          }
+        },
+        "_embedded": {
+          "http://hautelook.com/rels/skus": [
+            {
+              "sku": 8588852,
+              "price_retail": 89,
+              "price_sale": 34.97,
+              "price_discount": 0.61,
+              "size": "M",
+              "standard_size": "M",
+              "color": "BLACK-WHITE",
+              "inventory_level": "low",
+              "low_quantity": 3,
+              "is_returnable": true,
+              "is_returnable_to_rack": true,
+              "returnability": "returnable",
+              "is_clearance": false,
+              "ship_code": "owned_inventory",
+              "ship_time": "Ships in 1 - 2 days.",
+              "ship_description": "This item is ready to ship.",
+              "_links": {
+                "self": {
+                  "href": "/api/search2/products/skus/8588852"
+                },
+                "http://hautelook.com/rels/product": {
+                  "href": "/api/search2/products/1419399"
+                },
+                "http://hautelook.com/rels/swatch": {
+                  "href": "https://www.hautelookcdn.com/products/SAX002/black-white.jpg"
+                },
+                "http://hautelook.com/rels/images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/SAX002/{size}/4334143.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/SAX002/{size}/4334163.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/resizer/{width}x{height}/products/SAX002/{size}/4334182.jpg",
+                    "templated": true
+                  }
+                ],
+                "http://hautelook.com/rels/original-images": [
+                  {
+                    "href": "https://www.hautelookcdn.com/products/SAX002/{size}/4334143.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/SAX002/{size}/4334163.jpg",
+                    "templated": true
+                  },
+                  {
+                    "href": "https://www.hautelookcdn.com/products/SAX002/{size}/4334182.jpg",
+                    "templated": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "http://hautelook.com/rels/price-ranges": {
+      "price_ranges": [
+        {
+          "value": "-25",
+          "label": "$0-$25",
+          "count": 4,
+          "price_range": {
+            "name": "-25",
+            "from": null,
+            "to": 25
+          }
+        },
+        {
+          "value": "25-50",
+          "label": "$25-$50",
+          "count": 44,
+          "price_range": {
+            "name": "25-50",
+            "from": 25,
+            "to": 50
+          }
+        },
+        {
+          "value": "50-100",
+          "label": "$50-$100",
+          "count": 15,
+          "price_range": {
+            "name": "50-100",
+            "from": 50,
+            "to": 100
+          }
+        },
+        {
+          "value": "100-200",
+          "label": "$100-$200",
+          "count": 1,
+          "price_range": {
+            "name": "100-200",
+            "from": 100,
+            "to": 200
+          }
+        },
+        {
+          "value": "200-",
+          "label": "Over $200",
+          "count": 0,
+          "price_range": {
+            "name": "200-",
+            "from": 200,
+            "to": null
+          }
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/price-ranges-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+        }
+      }
+    },
+    "http://hautelook.com/rels/colors": {
+      "colors": [
+        {
+          "value": "White",
+          "label": "White",
+          "count": 62
+        },
+        {
+          "value": "Gray",
+          "label": "Gray",
+          "count": 67
+        },
+        {
+          "value": "Black",
+          "label": "Black",
+          "count": 64
+        },
+        {
+          "value": "Multi",
+          "label": "Multi",
+          "count": 107
+        },
+        {
+          "value": "Red",
+          "label": "Red",
+          "count": 66
+        },
+        {
+          "value": "Orange",
+          "label": "Orange",
+          "count": 11
+        },
+        {
+          "value": "Yellow",
+          "label": "Yellow",
+          "count": 10
+        },
+        {
+          "value": "Green",
+          "label": "Green",
+          "count": 45
+        },
+        {
+          "value": "Blue",
+          "label": "Blue",
+          "count": 395
+        },
+        {
+          "value": "Purple",
+          "label": "Purple",
+          "count": 33
+        },
+        {
+          "value": "Pink",
+          "label": "Pink",
+          "count": 16
+        },
+        {
+          "value": "Brown",
+          "label": "Brown",
+          "count": 20
+        },
+        {
+          "value": "Beige",
+          "label": "Beige",
+          "count": 18
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/colors-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+        }
+      }
+    },
+    "http://hautelook.com/rels/sizes": {
+      "sizes": [
+        {
+          "value": "XS",
+          "label": "XS",
+          "count": 1
+        },
+        {
+          "value": "S",
+          "label": "S",
+          "count": 67
+        },
+        {
+          "value": "M",
+          "label": "M",
+          "count": 64
+        },
+        {
+          "value": "L",
+          "label": "L",
+          "count": 73
+        },
+        {
+          "value": "XL",
+          "label": "XL",
+          "count": 71
+        },
+        {
+          "value": "XXL",
+          "label": "XXL",
+          "count": 34
+        },
+        {
+          "value": "3XL+",
+          "label": "3XL+",
+          "count": 4
+        }
+      ],
+      "brands": [
+        {
+          "value": "XS",
+          "label": "XS",
+          "count": 1
+        },
+        {
+          "value": "S",
+          "label": "S",
+          "count": 67
+        },
+        {
+          "value": "M",
+          "label": "M",
+          "count": 64
+        },
+        {
+          "value": "L",
+          "label": "L",
+          "count": 73
+        },
+        {
+          "value": "XL",
+          "label": "XL",
+          "count": 71
+        },
+        {
+          "value": "XXL",
+          "label": "XXL",
+          "count": 34
+        },
+        {
+          "value": "3XL+",
+          "label": "3XL+",
+          "count": 4
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/sizes-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+        }
+      }
+    },
+    "http://hautelook.com/rels/brands": {
+      "brands": [
+        {
+          "value": "7 Diamonds",
+          "label": "7 Diamonds",
+          "count": 1
+        },
+        {
+          "value": "Affliction",
+          "label": "Affliction",
+          "count": 1
+        },
+        {
+          "value": "Ben Sherman",
+          "label": "Ben Sherman",
+          "count": 1
+        },
+        {
+          "value": "Bespoke",
+          "label": "Bespoke",
+          "count": 1
+        },
+        {
+          "value": "Calvin Klein",
+          "label": "Calvin Klein",
+          "count": 4
+        },
+        {
+          "value": "Drifter",
+          "label": "Drifter",
+          "count": 1
+        },
+        {
+          "value": "Duke Hendricks",
+          "label": "Duke Hendricks",
+          "count": 1
+        },
+        {
+          "value": "Ezekiel",
+          "label": "Ezekiel",
+          "count": 5
+        },
+        {
+          "value": "HUGO BOSS",
+          "label": "HUGO BOSS",
+          "count": 1
+        },
+        {
+          "value": "James Campbell",
+          "label": "James Campbell",
+          "count": 5
+        },
+        {
+          "value": "Lucky Brand",
+          "label": "Lucky Brand",
+          "count": 1
+        },
+        {
+          "value": "Mr Turk",
+          "label": "Mr Turk",
+          "count": 1
+        },
+        {
+          "value": "Nat Nast",
+          "label": "Nat Nast",
+          "count": 2
+        },
+        {
+          "value": "O'Neill",
+          "label": "O'Neill",
+          "count": 1
+        },
+        {
+          "value": "Oakley",
+          "label": "Oakley",
+          "count": 3
+        },
+        {
+          "value": "Original Penguin",
+          "label": "Original Penguin",
+          "count": 1
+        },
+        {
+          "value": "Parke & Ronen",
+          "label": "Parke & Ronen",
+          "count": 1
+        },
+        {
+          "value": "Perry Ellis",
+          "label": "Perry Ellis",
+          "count": 5
+        },
+        {
+          "value": "Quiksilver",
+          "label": "Quiksilver",
+          "count": 2
+        },
+        {
+          "value": "Quiksilver Waterman Collection",
+          "label": "Quiksilver Waterman Collection",
+          "count": 2
+        },
+        {
+          "value": "Robert Graham",
+          "label": "Robert Graham",
+          "count": 3
+        },
+        {
+          "value": "Sovereign Code",
+          "label": "Sovereign Code",
+          "count": 3
+        },
+        {
+          "value": "Star USA By John Varvatos",
+          "label": "Star USA By John Varvatos",
+          "count": 2
+        },
+        {
+          "value": "TORI RICHARD",
+          "label": "TORI RICHARD",
+          "count": 3
+        },
+        {
+          "value": "Tiger of Sweden",
+          "label": "Tiger of Sweden",
+          "count": 1
+        },
+        {
+          "value": "Tommy Bahama",
+          "label": "Tommy Bahama",
+          "count": 5
+        },
+        {
+          "value": "Toscano",
+          "label": "Toscano",
+          "count": 4
+        },
+        {
+          "value": "Unyforme",
+          "label": "Unyforme",
+          "count": 1
+        },
+        {
+          "value": "Victorinox Swiss Army",
+          "label": "Victorinox Swiss Army",
+          "count": 1
+        },
+        {
+          "value": "WeSC",
+          "label": "WeSC",
+          "count": 1
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/brands-data?division=Men&department=Clothing&class=Shirts&subclass=Casual&sizes%5B0%5D=M&colors%5B0%5D=Black&includePersistent=true&includeFlash=false"
+        }
+      }
+    },
+    "http://hautelook.com/rels/sorts": {
+      "sorts": [
+        {
+          "value": "relevancy",
+          "name": "Relevance",
+          "label": "Relevance"
+        },
+        {
+          "value": "featured",
+          "name": "Newest Arrivals",
+          "label": "Newest Arrivals"
+        },
+        {
+          "value": "most_popular",
+          "name": "Popularity",
+          "label": "Popularity"
+        },
+        {
+          "value": "best_value",
+          "name": "Best Value",
+          "label": "Best Value"
+        },
+        {
+          "value": "price_asc",
+          "name": "Price Low To High",
+          "label": "Price Low To High"
+        },
+        {
+          "value": "price_desc",
+          "name": "Price High To Low",
+          "label": "Price High To Low"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/sort-data"
+        }
+      }
+    }
+  }
+}

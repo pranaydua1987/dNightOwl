@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "value": "Men",
+      "children": [
+        {
+          "value": "Clothing",
+          "children": [
+            {
+              "value": "Shirts",
+              "children": [
+                {
+                  "value": "Casual",
+                  "children": [],
+                  "count": 1860,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+                    }
+                  }
+                }
+              ],
+              "count": 1860,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+                }
+              }
+            }
+          ],
+          "count": 1860,
+          "_links": {
+            "http://hautelook.com/rels/catalog": {
+              "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+            }
+          }
+        }
+      ],
+      "count": 1860,
+      "_links": {
+        "http://hautelook.com/rels/catalog": {
+          "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+        }
+      }
+    }
+  ],
+  "filter": {
+    "context": null,
+    "query": null,
+    "sizes": [],
+    "price_ranges": [],
+    "colors": [],
+    "brands": [],
+    "sort": "featured",
+    "shops": [],
+    "country_exclusions": [],
+    "division": "Men",
+    "department": "Clothing",
+    "class": "Shirts",
+    "subclass": "Casual",
+    "include_persistent": true,
+    "include_flash": false,
+    "sku": null,
+    "page": 1,
+    "limit": 30
+  },
+  "_links": {
+    "self": {
+      "href": "/api/search2/catalog/classification?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+    }
+  }
+}

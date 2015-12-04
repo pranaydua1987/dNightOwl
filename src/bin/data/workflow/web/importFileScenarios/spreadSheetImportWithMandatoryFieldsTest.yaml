@@ -1,0 +1,31 @@
+---
+  filename: NewStyleWithJustMandatoryFields.xls
+  file_upload_error: Invalid Excel File. Please try again with a valid .xls or .csv file.
+  style_fields:
+    Brand: Brand
+    Style Number: Style Number
+    Style Name: Style Name
+    Country: Ignore
+    Weight: Ignore
+    Group Number: Ignore
+    Season: Ignore
+  SKU_Fields:
+    Size: Size Scale (A,B,C,D,E,F)
+    Color: Color Name
+    Color Family: Ignore
+    Quantity: Ignore
+    UPC: Ignore
+    Nordstrom UPC: Ignore
+  Inventory_fields:
+    MSRP: Original Retail Price
+    Price: HauteLook Selling Price
+    Wholesale: Ignore
+    Discount: Ignore
+    Cost: Ignore
+    Carrier: Ignore
+    Est. Shipping: Ignore
+  Business_Classification_Fields:
+    Division: Business Division
+    Department: Business Department
+    Class: Business Class
+    Subclass: Business Subclass

@@ -1,0 +1,39 @@
+{
+  "sorts": [
+    {
+      "value": "relevancy",
+      "name": "Relevance",
+      "label": "Relevance"
+    },
+    {
+      "value": "featured",
+      "name": "Newest Arrivals",
+      "label": "Newest Arrivals"
+    },
+    {
+      "value": "most_popular",
+      "name": "Popularity",
+      "label": "Popularity"
+    },
+    {
+      "value": "best_value",
+      "name": "Best Value",
+      "label": "Best Value"
+    },
+    {
+      "value": "price_asc",
+      "name": "Price Low To High",
+      "label": "Price Low To High"
+    },
+    {
+      "value": "price_desc",
+      "name": "Price High To Low",
+      "label": "Price High To Low"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/search2/catalog/search/sort-data"
+    }
+  }
+}

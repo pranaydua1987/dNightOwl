@@ -1,0 +1,9 @@
+---
+  name: 'PD_Test_1'
+  start_date: '2016-07-10'
+  end_date: '2017-07-10'
+  successfulShopsCreationMessage: 'Shop has been created.'
+  visible_in_navigation: '1'
+  style_id:
+         - '1248'
+

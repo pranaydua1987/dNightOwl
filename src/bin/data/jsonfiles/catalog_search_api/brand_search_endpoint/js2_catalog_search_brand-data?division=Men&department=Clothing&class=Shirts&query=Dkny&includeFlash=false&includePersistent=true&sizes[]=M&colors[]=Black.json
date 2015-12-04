@@ -1,0 +1,190 @@
+{
+  "filter": {
+    "context": null,
+    "query": "Dkny",
+    "sizes": [
+      "M"
+    ],
+    "price_ranges": [],
+    "colors": [
+      "Black"
+    ],
+    "brands": [],
+    "sort": "relevancy",
+    "shops": [],
+    "country_exclusions": [],
+    "division": "Men",
+    "department": "Clothing",
+    "class": "Shirts",
+    "subclass": null,
+    "include_persistent": true,
+    "include_flash": false,
+    "sku": null,
+    "page": 1,
+    "limit": 30
+  },
+  "page": 1,
+  "limit": 30,
+  "pages": 1,
+  "total": 0,
+  "corrected_query": null,
+  "_links": {
+    "self": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "first": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "last": {
+      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "http://hautelook.com/rels/search": {
+      "templated": true,
+      "href": "/api/search2/catalog/search{?query,context,division,department,class,subclass,page,includePersistent,includeFlash,limit,sort,sizes%5B%5D*,colors%5B%5D*,priceRanges%5B%5D*,brands%5B%5D*}"
+    },
+    "http://hautelook.com/rels/price-ranges": {
+      "href": "/api/search2/catalog/search/price-ranges-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "http://hautelook.com/rels/colors": {
+      "href": "/api/search2/catalog/search/colors-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "http://hautelook.com/rels/sizes": {
+      "href": "/api/search2/catalog/search/sizes-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "http://hautelook.com/rels/brands": {
+      "href": "/api/search2/catalog/search/brands-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+    },
+    "http://hautelook.com/rels/sorts": {
+      "href": "/api/search2/catalog/search/sort-data"
+    },
+    "http://hautelook.com/rels/classification": {
+      "href": "/api/search2/catalog/classification?division=Men&department=Clothing&class=Shirts&query=Dkny&colors%5B%5D=Black&sizes%5B%5D=M"
+    }
+  },
+  "_embedded": {
+    "http://hautelook.com/rels/products": [],
+    "http://hautelook.com/rels/price-ranges": {
+      "price_ranges": [
+        {
+          "value": "-25",
+          "label": "$0-$25",
+          "count": 0,
+          "price_range": {
+            "name": "-25",
+            "from": null,
+            "to": 25.0
+          }
+        },
+        {
+          "value": "25-50",
+          "label": "$25-$50",
+          "count": 0,
+          "price_range": {
+            "name": "25-50",
+            "from": 25.0,
+            "to": 50.0
+          }
+        },
+        {
+          "value": "50-100",
+          "label": "$50-$100",
+          "count": 0,
+          "price_range": {
+            "name": "50-100",
+            "from": 50.0,
+            "to": 100.0
+          }
+        },
+        {
+          "value": "100-200",
+          "label": "$100-$200",
+          "count": 0,
+          "price_range": {
+            "name": "100-200",
+            "from": 100.0,
+            "to": 200.0
+          }
+        },
+        {
+          "value": "200-",
+          "label": "Over $200",
+          "count": 0,
+          "price_range": {
+            "name": "200-",
+            "from": 200.0,
+            "to": null
+          }
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/price-ranges-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+        }
+      }
+    },
+    "http://hautelook.com/rels/sizes": {
+      "sizes": [],
+      "brands": [],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/sizes-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+        }
+      }
+    },
+    "http://hautelook.com/rels/colors": {
+      "colors": [],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/colors-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+        }
+      }
+    },
+    "http://hautelook.com/rels/brands": {
+      "brands": [],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/brands-data?division=Men&department=Clothing&class=Shirts&query=Dkny&sort=relevancy&page=1&limit=30&includeFlash=false&includePersistent=true&colors%5B%5D=Black&sizes%5B%5D=M"
+        }
+      }
+    },
+    "http://hautelook.com/rels/sorts": {
+      "sorts": [
+        {
+          "value": "relevancy",
+          "name": "Relevance",
+          "label": "Relevance"
+        },
+        {
+          "value": "featured",
+          "name": "Newest Arrivals",
+          "label": "Newest Arrivals"
+        },
+        {
+          "value": "most_popular",
+          "name": "Popularity",
+          "label": "Popularity"
+        },
+        {
+          "value": "best_value",
+          "name": "Best Value",
+          "label": "Best Value"
+        },
+        {
+          "value": "price_asc",
+          "name": "Price Low To High",
+          "label": "Price Low To High"
+        },
+        {
+          "value": "price_desc",
+          "name": "Price High To Low",
+          "label": "Price High To Low"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/search2/catalog/search/sort-data"
+        }
+      }
+    }
+  }
+}

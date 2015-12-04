@@ -1,0 +1,54 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (0.5.8)
+      ffi (~> 1.0, >= 1.0.11)
+    ffi (1.9.10)
+    headless (2.2.0)
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    httparty_with_cookies (0.1.1)
+      httparty
+    json (1.8.3)
+    json-compare (0.1.8)
+    multi_json (1.11.2)
+    multi_xml (0.5.5)
+    mysql2 (0.4.1)
+    phantomjs (1.9.8.0)
+    power_assert (0.2.6)
+    rubyzip (1.1.7)
+    selenium-webdriver (2.48.1)
+      childprocess (~> 0.5)
+      multi_json (~> 1.0)
+      rubyzip (~> 1.0)
+      websocket (~> 1.0)
+    test-unit (3.1.5)
+      power_assert
+    trollop (2.1.2)
+    watir-scroll (0.1.0)
+      watir-webdriver
+    watir-webdriver (0.9.1)
+      selenium-webdriver (>= 2.46.2)
+    websocket (1.2.2)
+    yajl-ruby (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  headless
+  httparty
+  httparty_with_cookies
+  json
+  json-compare
+  mysql2
+  phantomjs
+  test-unit
+  trollop
+  watir-scroll
+  watir-webdriver
+  yajl-ruby
+
+BUNDLED WITH
+   1.10.6

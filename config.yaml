@@ -1,0 +1,16 @@
+---
+default:
+  qa_url: https://qa.com
+  browserph: phantomjs
+  browserff: firefox
+  browserch: chrome
+  username: pranay.dua@hautelook.com
+  password: Welcome1!
+
+qa:
+  qa_url: https://docker.workflow.net/login
+  browserph: phantomjs
+  browserff: firefox
+  browserch: chrome
+  username: pranay.dua@hautelook.com
+  password: Welcome1!

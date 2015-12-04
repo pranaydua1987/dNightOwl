@@ -1,0 +1,25 @@
+---
+  base_url:
+        - https://ser-1850.qa.hautelook.com/api
+        - https://origin.staging.hautelook.com/api
+  auth: Authorization
+  auth_code: HWS a5a4d56c84b8d8cd0e0a0920edb8994c
+  cont_type: Content-Type
+  cont_type_code: application/json
+  username: test@user.com
+  password: '12345678'
+  search_query: eventid
+  member_id: '10420380'
+  Get_api_endpoint:
+            - /members/member_id/cart
+            - /events/tabs
+            - /events/upcoming
+            - /events/event_id
+            - /events/event_id/catalog
+            - /events/00000
+            - /events/event_id/children
+            - /events/event_id/styles
+            - /events/event_id/products/style_id
+            - /events/event_id/products/style_id/recommendations
+  Post_api_endpoints:
+            - /members/member_id/cart

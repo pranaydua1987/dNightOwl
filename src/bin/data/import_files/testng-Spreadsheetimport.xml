@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Workflow Admin Single Test">
+
+  <listeners>
+    <listener class-name="com.hautelook.workflow.common.RetryListener"/>
+  </listeners>
+  <test name="Spreadsheet Import Tests">
+    <classes>
+      <class name="com.hautelook.workflow.admin.SpreadsheetImportTests">
+        <methods>
+          <include name="spreadSheetMappingTypeaheadTest"/>
+        </methods>
+      </class>
+
+    </classes>
+  </test>
+</suite>

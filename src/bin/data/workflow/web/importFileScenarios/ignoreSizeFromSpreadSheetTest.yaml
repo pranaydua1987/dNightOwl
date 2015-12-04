@@ -1,0 +1,11 @@
+---
+  filename: NewStyleSku.xls
+  file_upload_error: Invalid Excel File. Please try again with a valid .xls or .csv file.
+  Test_data_1:
+                - ?!@#$%^&*
+                - (siz-)/_.1
+                - (siz-)/_.1
+                - asdf
+  Error_Message_1:
+              - You must specify a valid Default Size or map it to a column in the spreadsheet.
+              - This value is not valid.

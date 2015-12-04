@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "value": "Men",
+      "children": [
+        {
+          "value": "Clothing",
+          "children": [
+            {
+              "value": "Shirts",
+              "children": [
+                {
+                  "value": "Casual",
+                  "children": [],
+                  "count": 1860,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Casual"
+                    }
+                  }
+                },
+                {
+                  "value": "Dress Shirt",
+                  "children": [],
+                  "count": 765,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts&subclass=Dress+Shirt"
+                    }
+                  }
+                }
+              ],
+              "count": 2625,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shirts"
+                }
+              }
+            },
+            {
+              "value": "T-Shirts",
+              "children": [
+                {
+                  "value": "Crewneck",
+                  "children": [],
+                  "count": 891,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=T-Shirts&subclass=Crewneck"
+                    }
+                  }
+                },
+                {
+                  "value": "Tank",
+                  "children": [],
+                  "count": 201,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=T-Shirts&subclass=Tank"
+                    }
+                  }
+                },
+                {
+                  "value": "Henley",
+                  "children": [],
+                  "count": 117,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=T-Shirts&subclass=Henley"
+                    }
+                  }
+                },
+                {
+                  "value": "V-Neck",
+                  "children": [],
+                  "count": 85,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=T-Shirts&subclass=V-Neck"
+                    }
+                  }
+                }
+              ],
+              "count": 1294,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=T-Shirts"
+                }
+              }
+            },
+            {
+              "value": "Sweaters & Sweatshirts",
+              "children": [
+                {
+                  "value": "Crewneck",
+                  "children": [],
+                  "count": 319,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Crewneck"
+                    }
+                  }
+                },
+                {
+                  "value": "Cashmere",
+                  "children": [],
+                  "count": 200,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Cashmere"
+                    }
+                  }
+                },
+                {
+                  "value": "Zip-Up",
+                  "children": [],
+                  "count": 108,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Zip-Up"
+                    }
+                  }
+                },
+                {
+                  "value": "V-Neck",
+                  "children": [],
+                  "count": 94,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=V-Neck"
+                    }
+                  }
+                },
+                {
+                  "value": "Hoodies",
+                  "children": [],
+                  "count": 67,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Hoodies"
+                    }
+                  }
+                },
+                {
+                  "value": "Cardigan",
+                  "children": [],
+                  "count": 38,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Cardigan"
+                    }
+                  }
+                },
+                {
+                  "value": "Vests",
+                  "children": [],
+                  "count": 3,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Vests"
+                    }
+                  }
+                },
+                {
+                  "value": "Shawl",
+                  "children": [],
+                  "count": 2,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts&subclass=Shawl"
+                    }
+                  }
+                }
+              ],
+              "count": 834,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Sweaters+%26+Sweatshirts"
+                }
+              }
+            },
+            {
+              "value": "Coats & Jackets",
+              "children": [
+                {
+                  "value": "Rain & Lightweight",
+                  "children": [],
+                  "count": 350,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets&subclass=Rain+%26+Lightweight"
+                    }
+                  }
+                },
+                {
+                  "value": "Wool",
+                  "children": [],
+                  "count": 205,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets&subclass=Wool"
+                    }
+                  }
+                },
+                {
+                  "value": "Active",
+                  "children": [],
+                  "count": 135,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets&subclass=Active"
+                    }
+                  }
+                },
+                {
+                  "value": "Leather & Suede",
+                  "children": [],
+                  "count": 44,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets&subclass=Leather+%26+Suede"
+                    }
+                  }
+                },
+                {
+                  "value": "Vests",
+                  "children": [],
+                  "count": 33,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets&subclass=Vests"
+                    }
+                  }
+                }
+              ],
+              "count": 767,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Coats+%26+Jackets"
+                }
+              }
+            },
+            {
+              "value": "Shorts",
+              "children": [],
+              "count": 742,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Shorts"
+                }
+              }
+            },
+            {
+              "value": "Suits & Sportcoats",
+              "children": [
+                {
+                  "value": "Sportcoats & Blazers",
+                  "children": [],
+                  "count": 397,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Suits+%26+Sportcoats&subclass=Sportcoats+%26+Blazers"
+                    }
+                  }
+                },
+                {
+                  "value": "Suits",
+                  "children": [],
+                  "count": 177,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Suits+%26+Sportcoats&subclass=Suits"
+                    }
+                  }
+                },
+                {
+                  "value": "Suit Separates",
+                  "children": [],
+                  "count": 137,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Suits+%26+Sportcoats&subclass=Suit+Separates"
+                    }
+                  }
+                },
+                {
+                  "value": "Vests",
+                  "children": [],
+                  "count": 10,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Suits+%26+Sportcoats&subclass=Vests"
+                    }
+                  }
+                }
+              ],
+              "count": 720,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Suits+%26+Sportcoats"
+                }
+              }
+            },
+            {
+              "value": "Pants",
+              "children": [
+                {
+                  "value": "Casual",
+                  "children": [],
+                  "count": 442,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Pants&subclass=Casual"
+                    }
+                  }
+                },
+                {
+                  "value": "Dress",
+                  "children": [],
+                  "count": 151,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Pants&subclass=Dress"
+                    }
+                  }
+                }
+              ],
+              "count": 593,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Pants"
+                }
+              }
+            },
+            {
+              "value": "Polos",
+              "children": [
+                {
+                  "value": "Short-Sleeve",
+                  "children": [],
+                  "count": 457,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Polos&subclass=Short-Sleeve"
+                    }
+                  }
+                },
+                {
+                  "value": "Long-Sleeve",
+                  "children": [],
+                  "count": 17,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Polos&subclass=Long-Sleeve"
+                    }
+                  }
+                }
+              ],
+              "count": 474,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Polos"
+                }
+              }
+            },
+            {
+              "value": "Jeans",
+              "children": [
+                {
+                  "value": "Straight",
+                  "children": [],
+                  "count": 308,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans&subclass=Straight"
+                    }
+                  }
+                },
+                {
+                  "value": "Slim",
+                  "children": [],
+                  "count": 119,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans&subclass=Slim"
+                    }
+                  }
+                },
+                {
+                  "value": "Skinny",
+                  "children": [],
+                  "count": 22,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans&subclass=Skinny"
+                    }
+                  }
+                },
+                {
+                  "value": "Relaxed",
+                  "children": [],
+                  "count": 17,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans&subclass=Relaxed"
+                    }
+                  }
+                },
+                {
+                  "value": "Bootcut",
+                  "children": [],
+                  "count": 7,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans&subclass=Bootcut"
+                    }
+                  }
+                }
+              ],
+              "count": 471,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Jeans"
+                }
+              }
+            },
+            {
+              "value": "Swimwear",
+              "children": [
+                {
+                  "value": "Board Short",
+                  "children": [],
+                  "count": 316,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Swimwear&subclass=Board+Short"
+                    }
+                  }
+                },
+                {
+                  "value": "Trunk",
+                  "children": [],
+                  "count": 105,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Swimwear&subclass=Trunk"
+                    }
+                  }
+                },
+                {
+                  "value": "Brief",
+                  "children": [],
+                  "count": 9,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Swimwear&subclass=Brief"
+                    }
+                  }
+                }
+              ],
+              "count": 453,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Swimwear"
+                }
+              }
+            },
+            {
+              "value": "Activewear",
+              "children": [
+                {
+                  "value": "Tops",
+                  "children": [],
+                  "count": 113,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Activewear&subclass=Tops"
+                    }
+                  }
+                },
+                {
+                  "value": "Fleece & Hoodies",
+                  "children": [],
+                  "count": 49,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Activewear&subclass=Fleece+%26+Hoodies"
+                    }
+                  }
+                },
+                {
+                  "value": "Shorts",
+                  "children": [],
+                  "count": 20,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Activewear&subclass=Shorts"
+                    }
+                  }
+                },
+                {
+                  "value": "Bottoms",
+                  "children": [],
+                  "count": 13,
+                  "_links": {
+                    "http://hautelook.com/rels/catalog": {
+                      "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Activewear&subclass=Bottoms"
+                    }
+                  }
+                }
+              ],
+              "count": 195,
+              "_links": {
+                "http://hautelook.com/rels/catalog": {
+                  "href": "/api/search2/catalog/search?division=Men&department=Clothing&class=Activewear"
+                }
+              }
+            }
+          ],
+          "count": 9167,
+          "_links": {
+            "http://hautelook.com/rels/catalog": {
+              "href": "/api/search2/catalog/search?division=Men&department=Clothing"
+            }
+          }
+        }
+      ],
+      "count": 9167,
+      "_links": {
+        "http://hautelook.com/rels/catalog": {
+          "href": "/api/search2/catalog/search?division=Men&department=Clothing"
+        }
+      }
+    }
+  ],
+  "filter": {
+    "context": null,
+    "query": null,
+    "sizes": [],
+    "price_ranges": [],
+    "colors": [],
+    "brands": [],
+    "sort": "featured",
+    "shops": [],
+    "country_exclusions": [],
+    "division": "Men",
+    "department": "Clothing",
+    "class": null,
+    "subclass": null,
+    "include_persistent": true,
+    "include_flash": false,
+    "sku": null,
+    "page": 1,
+    "limit": 30
+  },
+  "_links": {
+    "self": {
+      "href": "/api/search2/catalog/classification?division=Men&department=Clothing"
+    }
+  }
+}

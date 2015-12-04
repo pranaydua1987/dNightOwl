@@ -1,0 +1,14 @@
+---
+  base_url:
+        - https://origin.staging.hautelook.com/api
+        - https://ser-1850.qa.hautelook.com/api
+  auth: Authorization
+  auth_code: HWS a5a4d56c84b8d8cd0e0a0920edb8994c
+  cont_type: Content-Type
+  cont_type_code: application/json
+  username: test@user.com
+  password: '12345678'
+  brand_id: '287'
+  api_endpoint:
+            - /brands
+            - /brands/brand_id

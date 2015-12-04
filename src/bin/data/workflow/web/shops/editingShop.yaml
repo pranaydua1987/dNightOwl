@@ -1,0 +1,10 @@
+---
+  name: 'PD_Test_1'
+  start_date: '2016-07-10'
+  end_date: '2017-07-10'
+  successfulShopsCreationMessage: 'Shop has been created.'
+  successfulStyleDeletion: 'Success! You have deleted Style 1248 from the shop.'
+  visible_in_navigation: '1'
+  style_id:
+         - '1248'
+         - '1291'

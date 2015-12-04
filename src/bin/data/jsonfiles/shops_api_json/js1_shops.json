@@ -1,0 +1,150 @@
+{
+  "page": 1,
+  "limit": 30,
+  "pages": 1,
+  "total": 9,
+  "_links": {
+    "self": {
+      "href": "/api/shops?page=1&limit=30"
+    },
+    "first": {
+      "href": "/api/shops?page=1&limit=30"
+    },
+    "last": {
+      "href": "/api/shops?page=1&limit=30"
+    },
+    "http://hautelook.com/rels/shops-feature-hero": {
+      "href": "https://www.hautelookcdn.com/shops/shops_feature_hero.jpg"
+    }
+  },
+  "_embedded": {
+    "items": [
+      {
+        "shop_name": "Gifts $25 & Under",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/1"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=1"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts $25-$50",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/2"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=2"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts $50-$100",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/3"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=3"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts for Her",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/4"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=4"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts for Him",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/5"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=5"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts for Kids",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/6"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=6"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts of Cashmere",
+        "start_date": "2015-11-09T00:00:00-08:00",
+        "end_date": "2015-11-16T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/9"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=9"
+          }
+        }
+      },
+      {
+        "shop_name": "Gifts of Luxury",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-12-20T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/7"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=7"
+          }
+        }
+      },
+      {
+        "shop_name": "Tech Gifts",
+        "start_date": "2015-11-02T00:00:00-08:00",
+        "end_date": "2015-11-16T00:00:00-08:00",
+        "visible_in_nav": true,
+        "_links": {
+          "http://hautelook.com/rels/web-shop": {
+            "href": "/shops/8"
+          },
+          "http://hautelook.com/rels/search": {
+            "href": "/api/search2/catalog/search?shops%5B%5D=8"
+          }
+        }
+      }
+    ]
+  }
+}

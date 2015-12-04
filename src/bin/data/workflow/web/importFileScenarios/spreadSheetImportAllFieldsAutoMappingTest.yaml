@@ -1,0 +1,31 @@
+---
+  filename: NewStyleWithAllFields.xls
+  file_upload_error: Invalid Excel File. Please try again with a valid .xls or .csv file.
+  style_fields:
+    Brand: Brand
+    Style Number: Style Number
+    Style Name: Style Name
+    Country: Country of Manufacture
+    Weight: Weight
+    Group Number: Group Number
+    Season: Season
+  SKU_Fields:
+    Size: Size Scale (A,B,C,D,E,F)
+    Color: Color Name
+    Color Family: Color Family
+    Quantity: Quantity
+    UPC: UPC
+    Nordstrom UPC: Nordstrom UPC
+  Inventory_fields:
+    MSRP: Original Retail Price
+    Price: HauteLook Selling Price
+    Wholesale: Wholesale Price
+    Discount: Discount
+    Cost: Cost
+    Carrier: Carrier
+    Est. Shipping: Est. Shipping Cost
+  Business_Classification_Fields:
+    Division: Business Division
+    Department: Business Department
+    Class: Business Class
+    Subclass: Business Subclass

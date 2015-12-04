@@ -1,0 +1,11 @@
+---
+  filename: NewStyleWithAllFields.xls
+  file_upload_error: Invalid Excel File. Please try again with a valid .xls or .csv file.
+  Test_data_1:
+                - ?!@#$%^&*
+                - '1.1'
+                - (siz-)/_.1
+                - asdf
+  Error_Message_1:
+              - This value should be a valid number.
+              - This value is not valid.

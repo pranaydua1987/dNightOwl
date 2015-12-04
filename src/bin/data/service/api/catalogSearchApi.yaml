@@ -1,0 +1,54 @@
+---
+  base_url:
+        - https://scala-search.qa.hautelook.com/api/nrhl
+        - https://origin.staging.hautelook.com/api/search2
+  auth: Authorization
+  auth_code: HWS a5a4d56c84b8d8cd0e0a0920edb8994c
+  cont_type: Content-Type
+  cont_type_code: application/json
+  username: test@user.com
+  password: '12345678'
+  search_query: eventid
+  member_id: '10420380'
+  Classification_parameters:
+              - 'division=Men'
+              - 'department=Clothing'
+              - 'class=Shirts'
+              - 'subclass=Casual'
+  Search_parameters:
+            - 'division=Men'
+            - 'department=Clothing'
+            - 'class=Shirts'
+            - 'subclass=Casual'
+            - 'colors[]=Black'
+            - 'sizes[]=M'
+  Brand_Search_parameters:
+               - 'division=Men'
+               - 'department=Clothing'
+               - 'class=Shirts'
+               - 'query=Dkny'
+               - 'includeFlash=false'
+               - 'includePersistent=true'
+               - 'sizes[]=M'
+               - 'colors[]=Black'
+               - 'priceRanges[]=25-50'
+  Filter_parameters:
+             - 'division=Men'
+             - 'department=Clothing'
+             - 'class=Shirts'
+             - 'query'
+             - 'includeFlash=false'
+             - 'includePersistent=true'
+             - 'sizes[]=M'
+             - 'colors[]=Black'
+             - 'priceRanges[]=25-50'
+  api_endpoint:
+            - /catalog/classification
+            - /catalog/search
+            - /catalog/search/filter-data
+            - /catalog/search/sort-data
+            - /catalog/search/brand-data
+            # - /catalog/search
+            # - /catalog/search/sort-data
+            # - /api/nrhl/catalog/search/filter-data
+            # - /api/nrhl/catalog/suggest
